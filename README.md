@@ -1,2 +1,2 @@
-# Proyecto (defirnir idea a utilizar)
+# Proyecto (definir idea a utilizar)
 polnito lico
