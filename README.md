@@ -1,2 +1,2 @@
-# Proyecto Sistema inteligente de priorización en emergencias
+# Proyecto Sistema inteligente de priorización en emergencias SIPREU
 
