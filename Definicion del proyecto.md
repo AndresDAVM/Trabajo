@@ -24,3 +24,5 @@ No existe un sistema que diga cuál es la inicial y final.
 2.Instituciones de salud Hospitales, Clínicas privadas). 
 
 Soluciones 
+
+Como buscamos solucionar el problema planteado: Con un simulador de una sala de emergencias buscamos preparar ____ para distintos casos de emergencias en los que se haga un correcto manejo de este, clasificando a los pacientes según su edad, síntomas y la gravedad del caso presentado, con esto se busca fácilitar de forma más clara los procesos médicos que se podrán tomar en cuenta dependiendo del grado de emergencia.
