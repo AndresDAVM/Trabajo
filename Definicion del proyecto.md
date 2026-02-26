@@ -17,4 +17,5 @@ Las emergencias se atienden sin un orden automático
 No existe un sistema que diga cuál va primero y cuál después.
 
 ¿Se hizo algo similar anteriormente?
+
 Un proyecto europeo (2018-2022) que desarrolló un sistema inteligente de triaje para departamentos de emergencia y clínicas integrando sensores biométricos wearables + machine learning para monitoreo continuo del estado de los pacientes y priorización dinámica.
