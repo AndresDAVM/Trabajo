@@ -1,27 +1,31 @@
 SIPREU (Sistema de Preorizacion en Urgencias)
 
-Problemas
+Introducción
+Los servicios de urgencias hospitalarias suelen enfrentar problemas relacionados con la saturación de pacientes, largos tiempos de espera y dificultades para priorizar correctamente los casos más críticos. 
+El proceso de triage es fundamental para clasificar a los pacientes según la gravedad de su condición, permitiendo que aquellos con mayor riesgo reciban atención inmediata.
+Sin embargo, en muchos hospitales este proceso todavía depende completamente de evaluaciones manuales, lo que puede generar errores humanos, demoras en la atención y falta de estandarización en la clasificación de los pacientes.
+El presente proyecto propone el diseño de una aplicación informática que permita optimizar el proceso de triage mediante el registro digital de pacientes, la evaluación de síntomas y signos vitales, y la priorización automática de los casos de acuerdo con su nivel de urgencia.
 
-1.Mala optimizacion en el triaje del sistema de urgencias (Triaje:Es un sistema de seleccion y clasificacion rapida de pacientes en urgencias, según su gravedad necesidades).
-2.Falta de clasificación ordenada y segura de las historias clínicas de los pacientes lo que puede generar riesgos en la protección de datos personales y posibles erroes en gestión medica. 
+Planteamiento del problema
 
-3.Saturación de líneas y servicios de emergencia en situaciones críticas:
-Llegan muchas llamadas al mismo tiempo y no hay un sistema que filtre o clasifique automáticamente
+En los servicios de urgencias hospitalarias, la gran cantidad de pacientes que llegan diariamente puede dificultar la correcta priorización de la atención médica.
+Cuando el triage no se realiza de manera eficiente, los pacientes críticos pueden experimentar retrasos en su atención, lo que puede poner en riesgo su vida.
+Entre los principales problemas identificados se encuentran:
+•	Procesos manuales de registro de pacientes.
+•	Falta de herramientas tecnológicas para apoyar la toma de decisiones.
+•	Saturación del personal médico.
+•	Tiempos prolongados de espera en urgencias.
+Por lo tanto, surge la necesidad de desarrollar una herramienta tecnológica que ayude a optimizar el proceso de clasificación de pacientes en urgencias.
 
-4.No hay una forma clara de clasificar las emergencias:
-Cada operador clasifica a su manera, no hay una regla clara para todos.
+Objetivos
+Objetivo general
+Diseñar el modelado o la estructura de una aplicación informática que optimice el proceso de triage en servicios de urgencias mediante la clasificación automatizada de pacientes según la gravedad de su condición.
 
-5.Las emergencias se atienden sin un orden automático
-No existe un sistema que diga cuál es la inicial y final.
-
-¿Se hizo algo similar antes?
-
-1.Un proyecto europeo (2018-2022) que desarrolló un sistema inteligente de triaje para departamentos de emergencia y clínicas integrando sensores biométricos wearables + machine learning para monitoreo continuo del estado de los pacientes y priorización dinámica.
-2.Un proyecto parecido es:"Intel Triage"
-
-¿A que publico va enfocado? 
-1.Personal de salud (Médicos, Enfermeros, personal administrativo).
-2.Instituciones de salud Hospitales, Clínicas privadas). 
+Objetivos específicos
+•	Analizar el proceso actual de triage en los servicios de urgencias.
+•	Identificar los requisitos funcionales y no funcionales del sistema.
+•	Diseñar los modelos del sistema utilizando diagramas UML (Unified Modeling Language o Lenguaje Unificado de Modelado).
+•	Proponer prototipos de interfaz que faciliten el uso del sistema por parte del personal médico.
 
 Soluciones 
 
