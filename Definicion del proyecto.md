@@ -14,7 +14,7 @@ El presente proyecto propone el diseño de una aplicación informática que perm
 En los servicios de urgencias hospitalarias, la gran cantidad de pacientes que llegan diariamente puede dificultar la correcta priorización de la atención médica.
 Cuando el triage no se realiza de manera eficiente, los pacientes críticos pueden experimentar retrasos en su atención, lo que puede poner en riesgo su vida.
 Entre los principales problemas identificados se encuentran:
-•	Procesos manuales de registro de pacientes.
+•	Procesos manuales de registro de paciente.
 
 •	Falta de herramientas tecnológicas para apoyar la toma de decisiones.
 
@@ -70,6 +70,39 @@ Médicos Encargados de consultar la lista priorizada de pacientes y atender los 
 Personal administrativo Responsable del registro inicial de los pacientes en el sistema.
 
 # Requisitos del sistema
+Lógica del algoritmo de triage
+
+El sistema calculará la prioridad del paciente mediante una puntuación basada en signos vitales y síntomas.
+
+Proceso:
+
+Registrar signos vitales.
+
+Evaluar síntomas críticos.
+
+Asignar puntaje de gravedad.
+
+Clasificar el nivel de triage.
+
+Ejemplo de puntuación:
+
+Condición	Puntaje
+Frecuencia cardiaca muy alta	+3
+Presión arterial muy baja	+3
+Dolor severo	+2
+Dificultad respiratoria	+4
+
+Clasificación final:
+
+0 – 2 → Azul (No urgente)
+
+3 – 4 → Verde (Poco urgente)
+
+5 – 6 → Amarillo (Urgente)
+
+7 – 8 → Naranja (Muy urgente)
+
+9+ → Rojo (Emergencia)
 
 ## Requisitos funcionales
 
