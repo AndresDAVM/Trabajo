@@ -69,11 +69,19 @@ Médicos Encargados de consultar la lista priorizada de pacientes y atender los 
 
 Personal administrativo Responsable del registro inicial de los pacientes en el sistema.
 
+Conclusiones
+
+El diseño de una aplicación de apoyo para el proceso de triage puede contribuir significativamente a mejorar la gestión de pacientes en los servicios de urgencias. Mediante la digitalización del registro de pacientes y la priorización automatizada de casos, es posible optimizar los tiempos de atención y apoyar la toma de decisiones del personal médico.
+
+Este proyecto demuestra cómo los principios de la ingeniería de software pueden aplicarse para diseñar soluciones tecnológicas orientadas a resolver problemas reales en el sector de la salud.
+
+
 Diagramas UML (propuesto)
 
 Diagrama de Casos de uso
 
 <img width="1920" height="1080" alt="Tablero de Equipo de Diagrama de Caso de Uso en Estilo de Bloques de Color Espaciados en Amarillo Rosa y Verde" src="https://github.com/user-attachments/assets/4be6cc8d-e1f2-458f-87de-5a35bc09e79a" />
+
 
 Mockups (protopipos de interfaz)
 
