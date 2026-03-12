@@ -43,3 +43,4 @@ Objetivos específicos
 Soluciones 
 
 1.Con un simulador de una sala de emergencias buscamos preparar al personal de salud y Instituciones e salud para distintos casos de emergencias en los que se haga un correcto manejo de este, clasificando a los pacientes según su edad, síntomas y la gravedad del caso presentado, con esto se busca fácilitar de forma más clara los procesos médicos que se podrán tomar en cuenta dependiendo del grado de emergencia.
+![download](https://github.com/user-attachments/assets/a15a7642-1717-48f0-aa76-7117cfc686c1)
