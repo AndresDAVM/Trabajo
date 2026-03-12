@@ -39,11 +39,52 @@ Objetivos específicos
 •	Diseñar los modelos del sistema utilizando diagramas UML (Unified Modeling Language o Lenguaje Unificado de Modelado).
 
 •	Proponer prototipos de interfaz que faciliten el uso del sistema por parte del personal médico.
+
+Justificación
+
+La implrementación de herramientas tecnologicas en los sistemas de salud da paso a una mejora en los procesos clinicos y administrativos haciendolos mas eficientes. Un sistema de apoyo para el triage puede llegar a recudir los tiempos de espera, mejorar la priorizacion de pacientes y la optimizacion de los recursos hopitalarios
+
+Este proyecto lo que busca es aplicar los principios de ingenieria de software para diseñar una solucion que aporte en el trabajo del personal medico y mejore la calida del servicio en los centros de urgencias
+
+Alcance del proyecto
+
+El proyecto se enfoca en el análisis y diseño de una aplicación de apoyo al triage hospitalario. No incluye la implementación del software ni el desarrollo de código, sino el diseño conceptual del sistema, sus funcionalidades, modelos y prototipos.
+El sistema permitirá:
+
+•	Registrar pacientes que ingresan a urgencias.
+
+•	Registrar síntomas y signos vitales.
+
+•	Clasificar pacientes según niveles de prioridad.
+
+•	Mostrar una lista priorizada de pacientes para atención médica.
+
+Usuarios del sistema
+
+Los principales usuarios del sistema serán:
+
+Enfermeros de triage Responsables de registrar la información inicial del paciente y evaluar sus signos vitales.
+
+Médicos Encargados de consultar la lista priorizada de pacientes y atender los casos más urgentes.
+
+Personal administrativo Responsable del registro inicial de los pacientes en el sistema.
+
+
+Mockups (protopipos de interfaz)
+
+Pantalla 1: Registro del paciente
+
 ![Documento A4 Ficha de Registro Tabla Minimalista Sencillo Beige](https://github.com/user-attachments/assets/b70c1651-5b8b-482c-b041-97bf940e7b76)
+
+Pantalla 2: Evaluación de Triage
 
 ![Green Gray Simple Survey Form A4 Document](https://github.com/user-attachments/assets/da671b1e-ac14-4785-8ec6-0d7f0e789a5c)
 
+Pantalla 3: Lista de Pacientes Priorizados
+
 ![Brown White Simple Weekly Personal Growth Tracker List](https://github.com/user-attachments/assets/49687be1-9a79-4739-8c2d-6a942208d757)
+
+Pantalla 4: Panel del Médico
 
 ![Green Gray Simple Survey Form A4 Document (1)](https://github.com/user-attachments/assets/dab214e0-d7c7-402b-91af-57eedf88ad11)
 
