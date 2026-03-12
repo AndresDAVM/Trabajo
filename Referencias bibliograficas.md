@@ -1,4 +1,4 @@
-# Referencias
+# Referencias Bibliografiacas
 
 Fernandes, C. M., Tanabe, P., Gilboy, N., Johnson, L., McNair, R., Rosenau, A., & Thompson, D. (2005). Five-level triage: a report from the ACEP/ENA Five-level Triage Task Force.
 
