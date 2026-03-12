@@ -20,12 +20,17 @@ Por lo tanto, surge la necesidad de desarrollar una herramienta tecnológica que
 
 Objetivos
 Objetivo general
+
 Diseñar el modelado o la estructura de una aplicación informática que optimice el proceso de triage en servicios de urgencias mediante la clasificación automatizada de pacientes según la gravedad de su condición.
 
 Objetivos específicos
+
 •	Analizar el proceso actual de triage en los servicios de urgencias.
+
 •	Identificar los requisitos funcionales y no funcionales del sistema.
+
 •	Diseñar los modelos del sistema utilizando diagramas UML (Unified Modeling Language o Lenguaje Unificado de Modelado).
+
 •	Proponer prototipos de interfaz que faciliten el uso del sistema por parte del personal médico.
 
 Soluciones 
