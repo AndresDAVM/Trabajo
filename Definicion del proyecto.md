@@ -1,4 +1,4 @@
-SIPREU (Sistema de Preorizacion en Urgencias)
+# SIPREU (Sistema de Preorizacion en Urgencias)
 
 # Introducción
 
