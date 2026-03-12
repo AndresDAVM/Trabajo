@@ -98,15 +98,15 @@ RNF4. El sistema debe funcionar en computadores del hospital o tablets clínicas
 
 # Historias de usuario
 
-Historia de usuario 1
+## Historia de usuario 1
 
 Como enfermero de triage quiero registrar los signos vitales del paciente para determinar su nivel de urgencia.
 
-Historia de usuario 2
+## Historia de usuario 2
 
 Como médico quiero ver una lista de pacientes ordenada por prioridad para atender primero los casos más críticos.
 
-Historia de usuario 3
+## Historia de usuario 3
 
 Como personal administrativo quiero registrar los datos básicos del paciente para iniciar su proceso de atención.
 
@@ -132,7 +132,7 @@ Este proyecto demuestra cómo los principios de la ingeniería de software puede
 <img width="1920" height="1080" alt="Tablero de Equipo de Diagrama de Caso de Uso en Estilo de Bloques de Color Espaciados en Amarillo Rosa y Verde" src="https://github.com/user-attachments/assets/4be6cc8d-e1f2-458f-87de-5a35bc09e79a" />
 
 
-Mockups (protopipos de interfaz)
+## Mockups (protopipos de interfaz)
 
 ### Pantalla 1: Registro del paciente
 
