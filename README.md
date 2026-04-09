@@ -220,4 +220,48 @@ Diagrama de Interacción
 Diagrama de secuencia
 Diagrama de comunicación
 
+Manejo de Triage en colombia
+
+El marco normativo sobre el triage en colombia tiene varios puntos importantes:
+ El triage debe ser obligatorio en todos los servicios de urgencias
+ Debe aplicarse en todas las IPS (hospitales y clínicas)
+ No puede usarse para negar la atención
+ Es un proceso dinámico, puede cambiar según el estado del paciente
+
+Clasificacion oficial del triage
+Segun la norma  y resolucion 5596 de 2015 que regula el triage en todo el pais, existen 5 niveles:
+
+Triage 1 -Atencion Inmediata 
+ Riesgo vital (Ej: Paro, schok , trauma grave)
+ Requiere reanimacion inmediata
+ Atencion: Inmediata
+ 
+Triage 2 - Muy urgente 
+ Alto deterioro o muerte (Ej;Dificultad respiratoria , dolor intenso)
+ Atencion : menor o igual a 30 minutos
+ 
+Traige 3 - Urgente
+ Paciente estable pero puede empeorar
+ Necesita estudios o tratamiento rapido
+
+Triage 4 - Menos urgente
+ Sin riego vital
+ Puede esperar sin comprometer la vida
+
+Triage 5- No urgente
+ Problemas leves o cronicos
+ Puede resolverse en consulta externa 
+
+¿Como se realiza el triage? (Segun el ministerio de salud)
+ Esto incluye:
+ Evaluacion rapida del paciente
+ Toma de signos vitales
+ Entrevista breve (Sintomas antecedentes
+ Clasificacion segun gravedad
+ Informacion al paciente sobre su prioridad y el tiempo de espera estimado
+
+ Puntos claves importantes
+ Es un sistema de priorizacion, no diagnostico
+ El triage puede cambiar segun la gravedad del paciente
+ 
 
